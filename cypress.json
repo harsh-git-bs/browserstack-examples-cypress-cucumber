@@ -1,4 +1,4 @@
 {
-  "watchForFileChanges": false,
+  "watchForFileChanges": true,
   "testFiles": "**/*.feature"
 }
